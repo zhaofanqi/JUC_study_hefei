@@ -1,0 +1,4 @@
+本学习案例中的 线程8锁 没能理解
+线程池 fork/join 的工作机制不怎么理解
+                    work-stealing
+                    继承 RecursiveTask 类的实例 可直接.fork() 对任务进行切分。看源码还不能理解
